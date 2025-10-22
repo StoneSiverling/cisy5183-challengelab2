@@ -1,0 +1,11 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "location": { "value": "westus3" },
+    "alias": { "value": "ss" },
+    "adminUsername": { "value": "azureuser" },
+    "sshPublicKey": { "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC2sidBzcsRXo+DMQvksRcMsLGvKhhMn0usG+OMRea9iE3JN13TGYDg15J8KL/If8E9Pz9jBv2QngMwzz/IZGOcP8B3dIf1C93bPXf/KfhCtVaqCTP8G49iBBwKTzSqMu/IhuSCf109exxkeTAp+/Q9ezKRpT1w6QA4qasF62A+SJjm4nT3EdO6etYGcyXCoKQk3V/srxHaqD7ofxMo8+Ttbos74h402SaHhmHo/bV84UdWcXTBVa/rjb/PvYafIboj9Ku2pA9/faUMZLH5+RV4g6QYsO4R+8eiagoyNr/3XqDe8AdYPLkN4Vew7RtQ0EkBFsyn4K4/vi9xUPKrp3GHJqBANPQlZao00ED2g/HdWagGJC9ldtm6ussFH9GZqatd5PBgsoFP8+4hYgqSHJQ7xKvzk8bgiJOENbsQoug1Jechv8A2kVDu+GLO8NoBnlEMgBr9O5K3J7GxE3vZXBG9kItGLkacMr21xOfcD6wGAd6ayD8jI6vkaaqNn2MAONhvWGZ/aY2q/QlfRiCIFu9vDtNNjbeYI2rM9Yb5oIk6wA4HD8y9+iLVoAS6mTWGn/8+rmOeatnSW36tdr18cWeEwkWr5pUFGSRry0HOwfdwilWEZRQ27Wha8BQEnAE23M2SifRs20gaY8MFP5Dk45nJBNem/2huVuopB1pk3mzuqw== siverlsw@SandboxHost-638967510372492483" }
+  }
+}
+
